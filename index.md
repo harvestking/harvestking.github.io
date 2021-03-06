@@ -22,7 +22,7 @@
 		<footer>
     		<ul>
         		<li><a href="mailto:to-register@qq.com">email</a></li>
-        		<li><a href="https://harvestking.github.io/rebuild">other websites</a></li>
+        		<li><a href="https://github.com/harvestking">Github Website</a></li>
 			</ul>
 		</footer>
 	</body>
